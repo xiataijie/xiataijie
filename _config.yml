@@ -1,0 +1,8 @@
+title: Xiataijie.GitHub.io
+description: 原理与思维
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
